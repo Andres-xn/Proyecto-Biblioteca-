@@ -1,0 +1,86 @@
+
+============================================
+   SISTEMA DE REGISTRO DE LIBROS - UEA
+============================================
+1. Registrar un libro
+2. Mostrar catálogo completo
+3. Buscar libro por ISBN
+4. Consultar libros por categoría
+5. Mostrar reporte estadístico
+6. Mostrar conjuntos, mapas y diccionarios
+7. Ejecutar prueba de tiempo
+8. Salir
+Seleccione una opción: 
+========== REPORTE ESTADÍSTICO ==========
+Total de libros: 5
+ISBN únicos: 5
+Total de autores: 5
+Año más antiguo: 1605
+Año más reciente: 2019
+
+Libros por categoría:
+- Clásicos: 1
+- Computación: 1
+- Literatura: 1
+- Programación: 2
+
+============================================
+   SISTEMA DE REGISTRO DE LIBROS - UEA
+============================================
+1. Registrar un libro
+2. Mostrar catálogo completo
+3. Buscar libro por ISBN
+4. Consultar libros por categoría
+5. Mostrar reporte estadístico
+6. Mostrar conjuntos, mapas y diccionarios
+7. Ejecutar prueba de tiempo
+8. Salir
+Seleccione una opción: 
+========== ESTRUCTURAS DE DATOS ==========
+
+1. CONJUNTO DE ISBN:
+{'978-84-376-0494-7', '978-0-13-235088-4', '978-1-59327-928-8', '978-0-262-03384-8', '978-84-204-8297-2'}
+
+2. DICCIONARIO DE LIBROS:
+978-84-376-0494-7: {'titulo': 'Cien años de soledad', 'autor': 'Gabriel García Márquez', 'categoria': 'Literatura', 'anio': 1967}
+978-84-204-8297-2: {'titulo': 'Don Quijote de la Mancha', 'autor': 'Miguel de Cervantes', 'categoria': 'Clásicos', 'anio': 1605}
+978-0-13-235088-4: {'titulo': 'Clean Code', 'autor': 'Robert C. Martin', 'categoria': 'Programación', 'anio': 2008}
+978-1-59327-928-8: {'titulo': 'Python Crash Course', 'autor': 'Eric Matthes', 'categoria': 'Programación', 'anio': 2019}
+978-0-262-03384-8: {'titulo': 'Introduction to Algorithms', 'autor': 'Cormen et al.', 'categoria': 'Computación', 'anio': 2009}
+
+3. MAPA DE CATEGORÍAS:
+Literatura: {'978-84-376-0494-7'}
+Clásicos: {'978-84-204-8297-2'}
+Programación: {'978-1-59327-928-8', '978-0-13-235088-4'}
+Computación: {'978-0-262-03384-8'}
+
+============================================
+   SISTEMA DE REGISTRO DE LIBROS - UEA
+============================================
+1. Registrar un libro
+2. Mostrar catálogo completo
+3. Buscar libro por ISBN
+4. Consultar libros por categoría
+5. Mostrar reporte estadístico
+6. Mostrar conjuntos, mapas y diccionarios
+7. Ejecutar prueba de tiempo
+8. Salir
+Seleccione una opción: 
+========== PRUEBA DE RENDIMIENTO ==========
+Procesando 10.000 registros...
+Registros procesados: 10000
+Tiempo de inserción: 0.013611 segundos
+Tiempo de búsqueda: 0.002728 segundos
+
+============================================
+   SISTEMA DE REGISTRO DE LIBROS - UEA
+============================================
+1. Registrar un libro
+2. Mostrar catálogo completo
+3. Buscar libro por ISBN
+4. Consultar libros por categoría
+5. Mostrar reporte estadístico
+6. Mostrar conjuntos, mapas y diccionarios
+7. Ejecutar prueba de tiempo
+8. Salir
+Seleccione una opción: Programa finalizado.
